@@ -10,11 +10,20 @@ var randNumb = randFunc(100,1000000);
 var currNumb = convertFunc(randNumb);
 
   return ("Account Blance: \n" +currNumb);
+
 }
 
 
 
+//exports
+// module.exports = {
+//     ranFunc: function() {
+//     },
+//     convertFunc: function() {}
+// };
 
+exports.ranFunc = function() {};
+exports.converFunc = function() {};
 
-module.exports = ranFunc;
-module.exports = convertFunc;
+// module.exports = ranFunc;
+// module.exports = convertFunc;
