@@ -10,6 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 2. npm install
 3. type curl localhost:3000 in command line 
 
+## Authors
+ - Craig Baird 
+ - Emily Hoang
+
 ## Technologies Used
 
 - JavaScript
