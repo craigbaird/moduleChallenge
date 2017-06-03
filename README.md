@@ -39,7 +39,7 @@ The first function export should return the result of the first module being pas
 The second function export should return the text “Account balance: \n”.
 app.js
 
-Finally, in the app.js
+### Finally, in the app.js
 
 set up a server,
 write a 200 head, and
